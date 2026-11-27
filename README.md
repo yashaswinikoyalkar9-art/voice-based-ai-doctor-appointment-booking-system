@@ -1,6 +1,4 @@
-# CareCall — Voice AI Doctor Appointment Assistant
-
-Assignment scaffold based on **SDE Intern – Round 1 Assignment**.
+# Voice AI Doctor Appointment Assistant
 
 ## Included
 - FastAPI REST backend with SQLite, mock doctors and appointment slots
