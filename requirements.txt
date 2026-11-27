@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+sqlalchemy
+pydantic
+pipecat-ai[webrtc,google,elevenlabs]
